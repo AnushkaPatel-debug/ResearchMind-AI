@@ -22,16 +22,16 @@
 
 ## 📸 Project Screenshots
 
-### ResearchMind AI — Dashboard
+### ResearchMind AI — Interface
 ![ResearchMind AI Dashboard](dashboard.png)
 
-### ResearchMind AI — Interface
+### ResearchMind AI — Application preview
 ![ResearchMind AI Interface](dashboard1.png)
 
-### ResearchMind AI — Features
+### ResearchMind AI — example
 ![ResearchMind AI Features](dashboard2.png)
 
-### ResearchMind AI — Application Preview
+### ResearchMind AI — Dashboard
 ![ResearchMind AI Application](dashboard3.png)
 
 ## Architecture
