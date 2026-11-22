@@ -19,9 +19,20 @@
 - 🐳 Docker Compose support
 - 🔐 API key stored server-side, not exposed to browser
 
-## Screenshots
 
-Run the frontend and capture screenshots into `screenshots/` before publishing your portfolio. No fabricated screenshots are included.
+## 📸 Project Screenshots
+
+### ResearchMind AI — Dashboard
+![ResearchMind AI Dashboard](dashboard.png)
+
+### ResearchMind AI — Interface
+![ResearchMind AI Interface](dashboard1.png)
+
+### ResearchMind AI — Features
+![ResearchMind AI Features](dashboard2.png)
+
+### ResearchMind AI — Application Preview
+![ResearchMind AI Application](dashboard3.png)
 
 ## Architecture
 
